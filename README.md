@@ -9,19 +9,20 @@ Because the algorithmic reasoning is already hard enough in these problems, the 
 All the solutions in this repository give the full **100 points**.
 
 ## Summary
+Click the links for solutions
 
 ### Week 1:
-- Build the Sum
-- Dominoes
-- Even Matrices
-- Even Pairs
+- [Build the Sum](./Week%2001/build_the_sum.cpp)
+- [Dominoes](./Week%2001/dominoes.cpp)
+- [Even Matrices](./Week%2001/even_matrices.cpp)
+- [Even Pairs](./Week%2001/even_pairs.cpp)
 
 ### Week 2:
-- Beach Bars
-- Burning Coins
-- The Great Game
-- Defensive Line
-- Deck of Cards (**PotW**)
+- [Beach Bars](./Week%2002/beach_bars.cpp)
+- [Burning Coins](./Week%2002/burning_coins.cpp)
+- [The Great Game](./Week%2002/the_great_game.cpp)
+- [Defensive Line](./Week%2002/defensive_line.cpp)
+- [Deck of Cards](./Problems%20of%20the%20week/deck_of_cards.cpp) (**PotW**)
 
 ### Week 3:
 - First Hit
